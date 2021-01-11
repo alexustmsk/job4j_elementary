@@ -5,7 +5,7 @@ public class Out {
         String lyrics = "Мама мыла раму";
         System.out.println(lyrics);
         String name = "Alex";
-        byte age =31;
+        byte age = 31;
         String separate = " - ";
         String surname = "Ustyuzhanin ";
         String id = name + separate + surname + age + " years old";
