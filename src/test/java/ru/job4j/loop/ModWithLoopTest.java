@@ -13,5 +13,4 @@ public class ModWithLoopTest {
         assertEquals(2, ModWithLoop.mod(8, 3));
         assertEquals(0, ModWithLoop.mod(0, 3));
     }
-
 }
